@@ -1,2 +1,9 @@
-# Sahdev2004-sahdev_RISC-V-SoC-Tapeout-Program_VSD
-A comprehensive log of my work in the VSD RISC-V SoC Tapeout Program, from tool setup and RTL design to synthesis, PnR, and tapeout.
+# My VSD-HDP Program Journey
+
+Welcome to my journey through the **VSD-HDP (Hardware Design Program)**! This repository documents my day-wise progress and learnings.
+
+## 🔽 Links to Detailed Logs
+
+| Day | Topics Covered | Status |
+|---|---|---|
+| **Day 0** | [**Tools Installation**](Day0/README.md) | **✅ Done** |
