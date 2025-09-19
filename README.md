@@ -6,4 +6,4 @@ Welcome to my journey through the **VSD-HDP (Hardware Design Program)**! This re
 
 | Day | Topics Covered | Status |
 |---|---|---|
-| **Day 0** | [**Tools Installation**](Day0/README.md) | **✅ Done** |
+| **Day 0** | [**Tools Installation**](Week0/Day0/README.md) | **✅ Done** |
