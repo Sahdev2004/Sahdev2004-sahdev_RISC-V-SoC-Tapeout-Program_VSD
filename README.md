@@ -27,16 +27,16 @@ This workshop is organized into a daily series of focused topics and practical l
     * [Explore the labs & conceptsfor Day 1](Week_1/Day_1/README.md)
 
 * **Day 2:** Mastering Timing Libraries & Synthesis Approaches
-    * [Explore the labs & concepts for Day 2](Day_2/README.md)
+    * [Explore the labs & concepts for Day 2](Week_1/Day_2/README.md)
 
 * **Day 3:** Combinational and Sequential Circuit Optimization
-    * [Explore the labs & concepts for Day 3](Day_3/README.md)
+    * [Explore the labs & concepts for Day 3](Week_1/Day_3/README.md)
 
 * **Day 4:** Gate-Level Simulation (GLS) and Understanding Synthesis Mismatches
-    * [Explore the labs & concepts for Day 4](Day_4/README.md)
+    * [Explore the labs & concepts for Day 4](Week_1/Day_4/README.md)
 
 * **Day 5:** Advanced Optimization in the Synthesis Flow
-    * [Explore the labs & concepts for Day 5](Day_5/README.md)
+    * [Explore the labs & concepts for Day 5](Week_1/Day_5/README.md)
 
 ---
 
