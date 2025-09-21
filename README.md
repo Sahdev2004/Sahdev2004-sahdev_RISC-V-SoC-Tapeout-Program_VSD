@@ -24,7 +24,7 @@ To follow along with this workshop, you'll need a foundational understanding of 
 This workshop is organized into a daily series of focused topics and practical labs. Click on a link below to explore the code, labs, and detailed explanations for each day.
 
 * **Day 1:** Introduction to Verilog RTL Design & Synthesis
-    * [Explorethelabs&conceptsforDay1](Day_1/README.md)
+    * [Explore the labs & conceptsfor Day 1](Day_1/README.md)
 
 * **Day 2:** Mastering Timing Libraries & Synthesis Approaches
     * [Explore the labs & concepts for Day 2](Day_2/README.md)
